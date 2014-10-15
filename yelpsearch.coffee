@@ -19,10 +19,10 @@ OAuth = require('oauth-1.0a')
 request = require('request')
 
 #OAuth Credentials
-CONSUMER_KEY = "R7XRZ8DUqaQWbyK5CN7CVg"
-CONSUMER_SECRET = "25EBf2VflT1lXIKVAhQ7wG0G5l0"
-TOKEN = "l83vEQNb3Ppk7vs-3nIT6VtCi-ASKZoE"
-TOKEN_SECRET = "y77APbNbMz4-KJLrPPZinI0LyXQ"
+CONSUMER_KEY = "***************"
+CONSUMER_SECRET = "***************"
+TOKEN = "***************"
+TOKEN_SECRET = "***************"
 
 #Default Search Parameters
 API_HOST = "http://api.yelp.com"
