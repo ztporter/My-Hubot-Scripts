@@ -9,9 +9,10 @@
 #   None
 #
 # Commands:
-#   i'm hungry for (type of food) - returns restaurant results 
+#   i'm hungry for (type of food) or "let's eat (type of food)"
+#   - returns restaurant results 
 #   from yelp api for that food type in the specified area
-#   (default lexington, ky) up to the search limit (default is 3)
+#   (default lexington, ky) up to the search limit (default is 5)
 
 #Fun Dependencies
 OAuth = require('oauth-1.0a')
