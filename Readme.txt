@@ -7,6 +7,8 @@ install both oauth-1.0a and request with npm
 
 Must add "yelpsearch.coffee" to the list of included scripts for Hubot in the hubot-scripts.json file
 
+Also must add yelpsearch.coffee file to the hubot-scripts/src/scripts folder
+
 Script responds to commands of the form:
 "i'm hungry for _____"
 or "let's eat _____"
