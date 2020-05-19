@@ -1,8 +1,8 @@
-#Summary
+### Summary
 
 Uses Yelp's API to search specifically for types of food in the nearby location, the location is set in the code (default is Lexington, Ky).
 
-#Installation
+### Installation
 
 Install both oauth-1.0a and request with npm
 
@@ -10,7 +10,7 @@ Add "yelpsearch.coffee" to the list of included scripts for Hubot in the hubot-s
 
 Add yelpsearch.coffee file to the hubot-scripts/src/scripts folder
 
-#How To
+### How To
 
 Bot responds to commands of the form:
 "i'm hungry for _____"
